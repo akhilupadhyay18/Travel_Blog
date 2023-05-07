@@ -14,3 +14,8 @@ html::-webkit-scrollbar {
     bottom: initial;
     text-shadow: 2px 2px #000;
 }
+
+
+.input-group {
+    max-width: 300px;
+}
