@@ -9,5 +9,6 @@ html::-webkit-scrollbar {
 }
 
 .carousel-caption {
+    top: 50%;
     
 }
